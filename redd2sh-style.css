@@ -1,0 +1,15 @@
+ .name {
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-size: 38px;
+    background-color: white;
+    display: flex;
+    margin: 5px;
+    padding: 12px;
+    border-bottom: 5px solid steelblue;
+    justify-content: space-around;
+ } 
+  body {
+    background-color: grey;
+  }
